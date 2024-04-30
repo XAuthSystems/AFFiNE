@@ -78,7 +78,7 @@
     "@blocksuite/block-std": "0.14.0-canary-202404300803-def952a",
     "@blocksuite/blocks": "0.14.0-canary-202404300803-def952a",
     "@blocksuite/global": "0.14.0-canary-202404300803-def952a",
-    "@blocksuite/icons": "2.1.46",
+    "@blocksuite/icons": "2.1.48",
     "@blocksuite/presets": "0.14.0-canary-202404300803-def952a",
     "@blocksuite/store": "0.14.0-canary-202404300803-def952a",
     "@storybook/addon-actions": "^7.6.17",
